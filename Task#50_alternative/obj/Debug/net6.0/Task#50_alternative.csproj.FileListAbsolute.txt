@@ -1,0 +1,15 @@
+C:\Users\Алексей\Desktop\ОБУЧЕНИЕ\C#\HomeWork\HomeWork007\Task#50_alternative\obj\Debug\net6.0\Task#50_alternative.csproj.AssemblyReference.cache
+C:\Users\Алексей\Desktop\ОБУЧЕНИЕ\C#\HomeWork\HomeWork007\Task#50_alternative\obj\Debug\net6.0\Task#50_alternative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Desktop\ОБУЧЕНИЕ\C#\HomeWork\HomeWork007\Task#50_alternative\obj\Debug\net6.0\Task#50_alternative.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\ОБУЧЕНИЕ\C#\HomeWork\HomeWork007\Task#50_alternative\obj\Debug\net6.0\Task#50_alternative.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\ОБУЧЕНИЕ\C#\HomeWork\HomeWork007\Task#50_alternative\obj\Debug\net6.0\Task#50_alternative.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\ОБУЧЕНИЕ\C#\HomeWork\HomeWork007\Task#50_alternative\bin\Debug\net6.0\Task#50_alternative.exe
+C:\Users\Алексей\Desktop\ОБУЧЕНИЕ\C#\HomeWork\HomeWork007\Task#50_alternative\bin\Debug\net6.0\Task#50_alternative.deps.json
+C:\Users\Алексей\Desktop\ОБУЧЕНИЕ\C#\HomeWork\HomeWork007\Task#50_alternative\bin\Debug\net6.0\Task#50_alternative.runtimeconfig.json
+C:\Users\Алексей\Desktop\ОБУЧЕНИЕ\C#\HomeWork\HomeWork007\Task#50_alternative\bin\Debug\net6.0\Task#50_alternative.dll
+C:\Users\Алексей\Desktop\ОБУЧЕНИЕ\C#\HomeWork\HomeWork007\Task#50_alternative\bin\Debug\net6.0\Task#50_alternative.pdb
+C:\Users\Алексей\Desktop\ОБУЧЕНИЕ\C#\HomeWork\HomeWork007\Task#50_alternative\obj\Debug\net6.0\Task#50_alternative.dll
+C:\Users\Алексей\Desktop\ОБУЧЕНИЕ\C#\HomeWork\HomeWork007\Task#50_alternative\obj\Debug\net6.0\refint\Task#50_alternative.dll
+C:\Users\Алексей\Desktop\ОБУЧЕНИЕ\C#\HomeWork\HomeWork007\Task#50_alternative\obj\Debug\net6.0\Task#50_alternative.pdb
+C:\Users\Алексей\Desktop\ОБУЧЕНИЕ\C#\HomeWork\HomeWork007\Task#50_alternative\obj\Debug\net6.0\Task#50_alternative.genruntimeconfig.cache
+C:\Users\Алексей\Desktop\ОБУЧЕНИЕ\C#\HomeWork\HomeWork007\Task#50_alternative\obj\Debug\net6.0\ref\Task#50_alternative.dll
